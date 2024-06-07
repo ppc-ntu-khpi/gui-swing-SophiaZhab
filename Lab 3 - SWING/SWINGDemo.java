@@ -131,7 +131,7 @@ public class SWINGdemo {
     }
 
     public static void main(String[] args) {
-        // Завантаження даних клієнтів з файлу
+        
         loadCustomerData("data\\test.dat");
 
         SWINGdemo demo = new SWINGdemo();
